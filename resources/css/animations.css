@@ -1,0 +1,7 @@
+.text-transition-hover {
+    transition: color 0.25s ease-in-out;
+}
+
+.bg-color-transition {
+    transition: background-color 0.25s linear;
+}

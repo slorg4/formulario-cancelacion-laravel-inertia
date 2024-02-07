@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f7f7f7;
+  background: radial-gradient(
+      ellipse at top,
+      rgba(0, 51, 255, 0.2) 20%,
+      transparent 80%
+    ),
+    radial-gradient(
+        ellipse at bottom,
+        rgba(255, 17, 0, 0.3) 20%,
+        transparent 80%
+      )
+      bottom;
+  background-attachment: fixed;
+}

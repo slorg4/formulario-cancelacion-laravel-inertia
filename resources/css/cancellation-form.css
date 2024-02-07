@@ -1,0 +1,7 @@
+.ant-picker > .ant-picker-input > input {
+  font-size: 1.1rem;
+}
+
+.bg-default-200 {
+  background-color: rgba(199, 14, 1, 0.2);
+}

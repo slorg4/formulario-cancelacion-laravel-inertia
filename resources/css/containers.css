@@ -1,0 +1,31 @@
+.bg-tables {
+  background-color: #f7f7f7;
+  background: radial-gradient(
+      ellipse at top,
+      rgba(247, 247, 247, 0.8) 20%,
+      transparent 80%
+    ),
+    radial-gradient(
+        ellipse at bottom,
+        rgba(255, 255, 255, 0.9) 20%,
+        transparent 80%
+      )
+      bottom;
+  background-attachment: fixed;
+  border-style: solid;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-color: rgba(113, 113, 122, 0.9);
+}
+
+.bordered-container-cantu-red {
+  border: 1px solid rgba(199, 14, 1, 1);
+}
+
+.bg-cantu-blue-blurr {
+  background-color: rgba(25, 39, 97, 0.5);
+}
+
+.text-shadow {
+  text-shadow: 0 1px 10px black;
+}
